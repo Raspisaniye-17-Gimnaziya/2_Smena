@@ -5,46 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link href="bootstrap.min.css" rel="stylesheet">
     <title>Расписание 17 Гимназии </title>
     <style>
         body{
             background-color: aliceblue;
         }
-        .top-menu {
-  position: relative; 
-  background: rgb(36, 140, 230);
-  box-shadow: inset 0 0 10px #ccc;
-}
-.menu-main {
-  list-style: none;
-  padding: 0 30px;
-  margin: 0;
-  font-size: 18px;
-  text-align: center;
-  position: relative;
-}
-.menu-main li {
-  display: inline-block;
-  padding: 5px 0;
-}
-.menu-main a {
-  text-decoration: none;
-  display: inline-block;
-  margin: 2px 5px;
-  padding: 6px 15px;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 16px;
-  color: #ffffff;
-  border-bottom: 1px solid transparent;
-  transition: .3s linear;
-}
-.menu-main a:hover {
-  border-radius: 3px;
-  background: #2df3ec;
-  color: #313131;
-  text-shadow: 0 1px 0 #fff;
-  border-color: #c6c6c6;
-}
         .Rasp{
             padding: 30px;
         }
@@ -138,15 +104,22 @@
     </style>
 </head>
 <body>
-<nav class="top-menu">
-  <ul class="menu-main">
-    <li><a href="https://raspisaniye-17-gimnaziya.github.io/1_Smena/">1 Смена</a></li>
-    <li><a href="https://raspisaniye-17-gimnaziya.github.io/2_Smena/">2 Смена</a></li>
-    <li><a href="https://raspisaniye-17-gimnaziya.github.io/1_Smena_Izmeneniya/">1 Смена изменения</a></li>
-    <li><a href="https://raspisaniye-17-gimnaziya.github.io/2_Smena_Izmeneniya/">2 Смена изменения</a></li>
-    <li><a href="https://raspisaniye-17-gimnaziya.github.io/Avtor/">Авторы</a></li>
-  </ul>
-</nav>
+    <div class="container">
+        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+          <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+            <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+            <span class="fs-4">Расписание</span>
+          </a>
+    
+          <ul class="nav nav-pills">
+            <li class="nav-item"><a href="https://raspisaniye-17-gimnaziya.github.io/1_Smena/" class="nav-link" >1 Смена</a></li>
+            <li class="nav-item"><a href="https://raspisaniye-17-gimnaziya.github.io/2_Smena/" class="nav-link active" aria-current="page">2 Смена</a></li>
+            <li class="nav-item"><a href="https://raspisaniye-17-gimnaziya.github.io/1_Smena_Izmeneniya/" class="nav-link">1 Смена изменения</a></li>
+            <li class="nav-item"><a href="https://raspisaniye-17-gimnaziya.github.io/2_Smena_Izmeneniya/" class="nav-link">2 Смена изменения</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Объявления</a></li>
+          </ul>
+        </header>
+      </div> 
 <h2 class ="Rasp">
     Расписание 
     <div class="dropdown">
@@ -182,7 +155,7 @@
     }
     
 </script>
-
+<div id="tabl">
 <table>
     <tr>
         <th></th>
@@ -304,6 +277,7 @@
         <th></th>
     </tr>
 </table>
+</div>
 <script src="script.js"></script>
 
 </body>
