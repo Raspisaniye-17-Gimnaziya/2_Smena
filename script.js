@@ -1,219 +1,500 @@
+console.log("Подключено");
+
+// Че же написать
+
+
+//6а
 let sixA1 = document.querySelectorAll("th, td");
 sixA1 = sixA1[15];
+console.log(sixA1);
+
+//6б
 let sixB1 = document.querySelectorAll("th, td");
 sixB1 = sixB1[16];
+console.log(sixB1);
+
+//6в
 let sixV1 = document.querySelectorAll("th, td");
 sixV1 = sixV1[17];
+console.log(sixV1);
+
+//7a
 let sevenA1 = document.querySelectorAll("th, td");
 sevenA1 = sevenA1[18];
+console.log(sevenA1);
+
+//7б
 let sevenB1 = document.querySelectorAll("th, td");
 sevenB1 = sevenB1[19];
+console.log(sevenB1);
+
+//7в
 let sevenV1 = document.querySelectorAll("th, td");
 sevenV1 = sevenV1[20];
+console.log(sevenV1);
+
+//8а
 let eightA1 = document.querySelectorAll("th, td");
 eightA1 = eightA1[21];
+console.log(eightA1);
+
+//8б
 let eightB1 = document.querySelectorAll("th, td");
 eightB1 = eightB1[22];
+console.log(eightB1);
+
+//8в
 let eightV1 = document.querySelectorAll("th, td");
 eightV1 = eightV1[23];
+console.log(eightV1);
+
+
+
+// Вторая строка
+
+
+
+//6а
 let sixA2 = document.querySelectorAll("th, td");
 sixA2 = sixA2[26];
+console.log(sixA2);
+
+//6б
 let sixB2 = document.querySelectorAll("th, td");
 sixB2 = sixB2[27];
+console.log(sixB2);
+
+//6в
 let sixV2 = document.querySelectorAll("th, td");
 sixV2 = sixV2[28];
+console.log(sixV2);
+
+//7a
 let sevenA2 = document.querySelectorAll("th, td");
 sevenA2 = sevenA2[29];
+console.log(sevenA2);
+
+//7б
 let sevenB2 = document.querySelectorAll("th, td");
 sevenB2 = sevenB2[30];
+console.log(sevenB2);
+
+//7в
 let sevenV2 = document.querySelectorAll("th, td");
 sevenV2 = sevenV2[31];
+console.log(sevenV2);
+
+//8а
 let eightA2 = document.querySelectorAll("th, td");
 eightA2 = eightA2[32];
+console.log(eightA2);
+
+//8б
 let eightB2 = document.querySelectorAll("th, td");
 eightB2 = eightB2[33];
+console.log(eightB2);
+
+//8в
 let eightV2 = document.querySelectorAll("th, td");
 eightV2 = eightV2[34];
+console.log(eightV2);
+
+
+
+// Третяяя строка
+
+
+
+//6а
 let sixA3 = document.querySelectorAll("th, td");
 sixA3 = sixA3[37];
+console.log(sixA3);
+
+//6б
 let sixB3 = document.querySelectorAll("th, td");
 sixB3 = sixB3[38];
+console.log(sixB3);
+
+//6в
 let sixV3 = document.querySelectorAll("th, td");
 sixV3 = sixV3[39];
+console.log(sixV3);
+
+//7a
 let sevenA3 = document.querySelectorAll("th, td");
 sevenA3 = sevenA3[40];
+console.log(sevenA3);
+
+//7б
 let sevenB3 = document.querySelectorAll("th, td");
 sevenB3 = sevenB3[41];
+console.log(sevenB3);
+
+//7в
 let sevenV3 = document.querySelectorAll("th, td");
 sevenV3 = sevenV3[42];
+console.log(sevenV3);
+
+//8а
 let eightA3 = document.querySelectorAll("th, td");
 eightA3 = eightA3[43];
+console.log(eightA3);
+
+//8б
 let eightB3 = document.querySelectorAll("th, td");
 eightB3 = eightB3[44];
+console.log(eightB3);
+
+//8в
 let eightV3 = document.querySelectorAll("th, td");
 eightV3 = eightV3[45];
+console.log(eightV3);
+
+
+
+// Четвертая строка
+
+
+
+//6а
 let sixA4 = document.querySelectorAll("th, td");
 sixA4 = sixA4[48];
+console.log(sixA4);
+
+//6б
 let sixB4 = document.querySelectorAll("th, td");
 sixB4 = sixB4[49];
+console.log(sixB4);
+
+//6в
 let sixV4 = document.querySelectorAll("th, td");
 sixV4 = sixV4[50];
+console.log(sixV4);
+
+//7a
 let sevenA4 = document.querySelectorAll("th, td");
 sevenA4 = sevenA4[51];
+console.log(sevenA4);
+
+//7б
 let sevenB4 = document.querySelectorAll("th, td");
 sevenB4 = sevenB4[52];
+console.log(sevenB4);
+
+//7в
 let sevenV4 = document.querySelectorAll("th, td");
 sevenV4 = sevenV4[53];
+console.log(sevenV4);
+
+//8а
 let eightA4 = document.querySelectorAll("th, td");
 eightA4 = eightA4[54];
+console.log(eightA4);
+
+//8б
 let eightB4 = document.querySelectorAll("th, td");
 eightB4 = eightB4[55];
+console.log(eightB4);
+
+//8в
 let eightV4 = document.querySelectorAll("th, td");
 eightV4 = eightV4[56];
+console.log(eightV4);
+
+
+// Пятая строка
+
+
+//6а
 let sixA5 = document.querySelectorAll("th, td");
 sixA5 = sixA5[59];
+console.log(sixA5);
+
+//6б
 let sixB5 = document.querySelectorAll("th, td");
 sixB5 = sixB5[60];
+console.log(sixB5);
+
+//6в
 let sixV5 = document.querySelectorAll("th, td");
 sixV5 = sixV5[61];
+console.log(sixV5);
+
+//7a
 let sevenA5 = document.querySelectorAll("th, td");
 sevenA5 = sevenA5[62];
+console.log(sevenA5);
+
+//7б
 let sevenB5 = document.querySelectorAll("th, td");
 sevenB5 = sevenB5[63];
+console.log(sevenB5);
+
+//7в
 let sevenV5 = document.querySelectorAll("th, td");
 sevenV5 = sevenV5[64];
+console.log(sevenV5);
+
+//8а
 let eightA5 = document.querySelectorAll("th, td");
 eightA5 = eightA5[65];
+console.log(eightA5);
+
+//8б
 let eightB5 = document.querySelectorAll("th, td");
 eightB5 = eightB5[66];
+console.log(eightB5);
+
+//8в
 let eightV5 = document.querySelectorAll("th, td");
 eightV5 = eightV5[67];
+console.log(eightV5);
+
+
+// Шестая строка
+
+
+//6а
 let sixA6 = document.querySelectorAll("th, td");
 sixA6 = sixA6[70];
+console.log(sixA6);
+
+//6б
 let sixB6 = document.querySelectorAll("th, td");
 sixB6 = sixB6[71];
+console.log(sixB6);
+
+//6в
 let sixV6 = document.querySelectorAll("th, td");
 sixV6 = sixV6[72];
+console.log(sixV6);
+
+//7a
 let sevenA6 = document.querySelectorAll("th, td");
 sevenA6 = sevenA6[73];
+console.log(sevenA6);
+
+//7б
 let sevenB6 = document.querySelectorAll("th, td");
 sevenB6 = sevenB6[74];
+console.log(sevenB6);
+
+//7в
 let sevenV6 = document.querySelectorAll("th, td");
 sevenV6 = sevenV6[75];
+console.log(sevenV6);
+
+//8а
 let eightA6 = document.querySelectorAll("th, td");
 eightA6 = eightA6[76];
+console.log(eightA6);
+
+//8б
 let eightB6 = document.querySelectorAll("th, td");
 eightB6 = eightB6[77];
+console.log(eightB6);
+
+//8в
 let eightV6 = document.querySelectorAll("th, td");
 eightV6 = eightV6[78];
+console.log(eightV6);
+
+
+// Седьмая строка
+
+
+//6а
 let sixA7 = document.querySelectorAll("th, td");
 sixA7 = sixA7[81];
+console.log(sixA7);
+
+//6б
 let sixB7 = document.querySelectorAll("th, td");
 sixB7 = sixB7[82];
+console.log(sixB7);
+
+//6в
 let sixV7 = document.querySelectorAll("th, td");
 sixV7 = sixV7[83];
+console.log(sixV7);
+
+//7a
 let sevenA7 = document.querySelectorAll("th, td");
 sevenA7 = sevenA7[84];
+console.log(sevenA7);
+
+//7б
 let sevenB7 = document.querySelectorAll("th, td");
 sevenB7 = sevenB7[85];
+console.log(sevenB7);
+
+//7в
 let sevenV7 = document.querySelectorAll("th, td");
 sevenV7 = sevenV7[86];
+console.log(sevenV7);
+
+//8а
 let eightA7 = document.querySelectorAll("th, td");
 eightA7 = eightA7[87];
+console.log(eightA7);
+
+//8б
 let eightB7 = document.querySelectorAll("th, td");
 eightB7 = eightB7[88];
+console.log(eightB7);
+
+//8в
 let eightV7 = document.querySelectorAll("th, td");
 eightV7 = eightV7[89];
+console.log(eightV7);
+
+
+// Седьмая строка
+
+
+//6а
 let sixA8 = document.querySelectorAll("th, td");
 sixA8 = sixA8[92];
+console.log(sixA8);
+
+//6б
 let sixB8 = document.querySelectorAll("th, td");
 sixB8 = sixB8[93];
+console.log(sixB8);
+
+//6в
 let sixV8 = document.querySelectorAll("th, td");
 sixV8 = sixV8[94];
+console.log(sixV8);
+
+//7a
 let sevenA8 = document.querySelectorAll("th, td");
 sevenA8 = sevenA8[95];
+console.log(sevenA8);
+
+//7б
 let sevenB8 = document.querySelectorAll("th, td");
 sevenB8 = sevenB8[96];
+console.log(sevenB8);
+
+//7в
 let sevenV8 = document.querySelectorAll("th, td");
 sevenV8 = sevenV8[97];
+console.log(sevenV8);
+
+//8а
 let eightA8 = document.querySelectorAll("th, td");
 eightA8 = eightA8[98];
+console.log(eightA8);
+
+//8б
 let eightB8 = document.querySelectorAll("th, td");
 eightB8 = eightB8[99];
+console.log(eightB8);
+
+//8в
 let eightV8 = document.querySelectorAll("th, td");
 eightV8 = eightV8[100];
+console.log(eightV8);
+
+
+// Выделяем элементы кнопок с классами
+
 let ponedelnik = document.getElementById("pn");
 let vtornik = document.getElementById("vt");
 let sreda = document.getElementById("sr");
 let chetverg = document.getElementById("ch");
 let patnicha = document.getElementById("pt");
 let subbota = document.getElementById("sb");
+
+// console.log(ponedelnik, vtornik, sreda, chetverg, patnicha, subbota);
+
+// Выделяем день недели
+
 let zagolovokDenNedely = document.querySelectorAll("th, td");
 zagolovokDenNedely = zagolovokDenNedely[12];
+// console.log(zagolovokDenNedely);
+
+
+
+
+
+
+
+
+// Основной код
+
 const pn = {
-    sixA: "Англ.яз",
-    sixB: "Математика",
-    sixV: "Русск.яз",
-    sevenA: "Информатика",
-    sevenB: "Родной язык",
-    sevenV: "Русск.яз",
+    sixA: "Англ.яз(22,9)",
+    sixB: "Математика(7)",
+    sixV: "Русск.яз(10)",
+    sevenA: "Информатика(29,31)",
+    sevenB: "Родной язык(15)",
+    sevenV: "Русск.яз(6)",
     eightA: "",
     eightB: "",
     eightV: "",
-    sixA1: "Математика",
-    sixB1: "Англ.яз",
-    sixV1: "Литература",
-    sevenA1: "Информатика",
-    sevenB1: "Физкультура",
-    sevenV1: "Математика",
-    eightA1: "География",
-    eightB1: "Биология",
-    eightV1: "Математика",
-    sixA2: "Русск.яз",
-    sixB2: "Физкультура",
-    sixV2: "Англ.яз",
-    sevenA2: "Математика",
-    sevenB2: "Информатика",
-    sevenV2: "Литература",
-    eightA2: "Русск.яз",
-    eightB2: "Химия",
-    eightV2: "Математика",
-    sixA3: "Литература",
-    sixB3: "Обществознание",
-    sixV3: "Математика",
-    sevenA3: "Физкультура",
-    sevenB3: "Информатика",
-    sevenV3: "Англ.яз",
-    eightA3: "Литература",
-    eightB3: "Математика",
-    eightV3: "Биология",
-    sixA4: "Обществознание",
-    sixB4: "Русск.яз",
-    sixV4: "Математика",
-    sevenA4: "География",
-    sevenB4: "Англ.яз",
-    sevenV4: "Информатика",
-    eightA4: "Биология",
-    eightB4: "Математика",
-    eightV4: "Физкультура",
+
+    sixA1: "Математика(9)",
+    sixB1: "Англ.яз(25,7)",
+    sixV1: "Литература(9)",
+    sevenA1: "Информатика(29,31)",
+    sevenB1: "Физкультура(21)",
+    sevenV1: "Математика(6)",
+    eightA1: "География(16)",
+    eightB1: "Биология(15)",
+    eightV1: "Математика(28)",
+
+    sixA2: "Русск.яз(9)",
+    sixB2: "Физкультура(21)",
+    sixV2: "Англ.яз(25,10)",
+    sevenA2: "Математика(15)",
+    sevenB2: "Информатика(29,31)",
+    sevenV2: "Литература(6)",
+    eightA2: "Русск.яз(16)",
+    eightB2: "Химия(7)",
+    eightV2: "Математика(28)",
+
+    sixA3: "Литература(9)",
+    sixB3: "Обществознание(7)",
+    sixV3: "Математика(10)",
+    sevenA3: "Физкультура(21)",
+    sevenB3: "Информатика(29,31)",
+    sevenV3: "Англ.яз(22,6)",
+    eightA3: "Литература(16)",
+    eightB3: "Математика(25)",
+    eightV3: "Биология(28)",
+
+    sixA4: "Обществознание(9)",
+    sixB4: "Русск.яз(7)",
+    sixV4: "Математика(10)",
+    sevenA4: "География(15)",
+    sevenB4: "Англ.яз(22,28)",
+    sevenV4: "Информатика(29,31)",
+    eightA4: "Биология(16)",
+    eightB4: "Математика(25)",
+    eightV4: "Физкультура(21)",
+
     sixA5: "",
     sixB5: "",
-    sixV5: "Обществознание",
-    sevenA5: "Англ.яз",
-    sevenB5: "Математика",
-    sevenV5: "Информатика",
-    eightA5: "Физика",
-    eightB5: "Физкультура",
-    eightV5: "Химия",
+    sixV5: "Обществознание(10)",
+    sevenA5: "Англ.яз(22,15)",
+    sevenB5: "Математика(7)",
+    sevenV5: "Информатика(29,31)",
+    eightA5: "Физика(16)",
+    eightB5: "Физкультура(21)",
+    eightV5: "Химия(28)",
+
     sixA6: "",
     sixB6: "",
     sixV6: "",
     sevenA6: "",
     sevenB6: "",
     sevenV6: "",
-    eightA6: "Химия",
-    eightB6: "Физкультура",
-    eightV6: "Физика",
+    eightA6: "Химия(16)",
+    eightB6: "Физкультура(21)",
+    eightV6: "Физика(28)",
+
     sixA7: "",
     sixB7: "",
     sixV7: "",
@@ -223,71 +504,81 @@ const pn = {
     eightA7: "",
     eightB7: "",
     eightV7: "",
-}; 
+
+}; // База данных на понедельник
+
+
 const vt = {
-    sixA: "Русск.яз",
-    sixB: "Математика",
-    sixV: "Родной язык",
-    sevenA: "Русск.яз",
-    sevenB: "История",
-    sevenV: "Математика",
+    sixA: "Русск.яз(9)",
+    sixB: "Математика(7)",
+    sixV: "Родной язык(10)",
+    sevenA: "Русск.яз(15)",
+    sevenB: "История(28)",
+    sevenV: "Математика(6)",
     eightA: "",
     eightB: "",
     eightV: "",
-    sixA1: "Математика",
-    sixB1: "Русск.яз",
-    sixV1: "Русск.яз",
-    sevenA1: "Литература",
-    sevenB1: "Математика",
-    sevenV1: "Музыка",
-    eightA1: "Программирование",
-    eightB1: "Родной язык",
-    eightV1: "Англ.яз",
-    sixA2: "История",
-    sixB2: "Литература",
-    sixV2: "Музыка",
-    sevenA2: "Физика",
-    sevenB2: "Русск.яз",
-    sevenV2: "ИЗО",
-    eightA2: "Математика",
-    eightB2: "Прикл.экономика + программирование",
-    eightV2: "Англ.яз",
-    sixA3: "Экономика",
-    sixB3: "Музыка",
-    sixV3: "Математика",
-    sevenA3: "Математика",
-    sevenB3: "Физика",
-    sevenV3: "Родной язык",
-    eightA3: "Математика",
-    eightB3: "Англ.яз",
-    eightV3: "История",
-    sixA4: "Музыка",
-    sixB4: "Экономика",
-    sixV4: "История",
-    sevenA4: "ИЗО",
-    sevenB4: "Литература",
-    sevenV4: "Физика",
-    eightA4: "Биология",
-    eightB4: "Англ.яз",
-    eightV4: "Литература",
-    sixA5: "Физкультура",
-    sixB5: "История",
-    sixV5: "Экономика",
-    sevenA5: "Музыка",
-    sevenB5: "ИЗО",
-    sevenV5: "Математика",
-    eightA5: "Англ.яз",
-    eightB5: "Биология",
-    eightV5: "Род.яз",
+
+    sixA1: "Математика(9)",
+    sixB1: "Русск.яз(7)",
+    sixV1: "Русск.яз(10)",
+    sevenA1: "Литература(15)",
+    sevenB1: "Математика(6)",
+    sevenV1: "Музыка(2)",
+    eightA1: "Программирование(29,31)",
+    eightB1: "Родной язык(16)",
+    eightV1: "Англ.яз(22,25)",
+
+    sixA2: "История(9)",
+    sixB2: "Литература(7)",
+    sixV2: "Музыка(2)",
+    sevenA2: "Физика(15)",
+    sevenB2: "Русск.яз(10)",
+    sevenV2: "ИЗО(6)",
+    eightA2: "Математика(16)",
+    eightB2: "Прикл.экономика + программирование(28,29)",
+    eightV2: "Англ.яз(22,25)",
+
+    sixA3: "Экономика(9)",
+    sixB3: "Музыка(2)",
+    sixV3: "Математика(10)",
+    sevenA3: "Математика(15)",
+    sevenB3: "Физика(7)",
+    sevenV3: "Родной язык(6)",
+    eightA3: "Математика(16)",
+    eightB3: "Англ.яз(22,25)",
+    eightV3: "История(28)",
+
+    sixA4: "Музыка(2)",
+    sixB4: "Экономика(7)",
+    sixV4: "История(10)",
+    sevenA4: "ИЗО(15)",
+    sevenB4: "Литература(9)",
+    sevenV4: "Физика(6)",
+    eightA4: "Биология(16)",
+    eightB4: "Англ.яз(22,25)",
+    eightV4: "Литература(28)",
+
+    sixA5: "Физкультура(21)",
+    sixB5: "История(7)",
+    sixV5: "Экономика(10)",
+    sevenA5: "Музыка(2)",
+    sevenB5: "ИЗО(15)",
+    sevenV5: "Математика(6)",
+    eightA5: "Англ.яз(22,25)",
+    eightB5: "Биология(16)",
+    eightV5: "Родной язык(28)",
+
     sixA6: "",
     sixB6: "",
     sixV6: "",
     sevenA6: "",
     sevenB6: "",
     sevenV6: "",
-    eightA6: "Англ.яз",
-    eightB6: "Экономика",
-    eightV6: "Физкультура",
+    eightA6: "Англ.яз(22,25)",
+    eightB6: "Экономика(10)",
+    eightV6: "Физкультура(21)",
+
     sixA7: "",
     sixB7: "",
     sixV7: "",
@@ -297,71 +588,80 @@ const vt = {
     eightA7: "",
     eightB7: "",
     eightV7: "",
-}; 
+
+}; // База данных на вторник
+
 const sr = {
-    sixA: "Англ.яз",
-    sixB: "Русск.яз",
-    sixV: "Математика",
-    sevenA: "География",
-    sevenB: "Русск.яз",
-    sevenV: "Русск.яз",
+    sixA: "Англ.яз(9,22)",
+    sixB: "Русск.яз(7)",
+    sixV: "Математика(10)",
+    sevenA: "География(15)",
+    sevenB: "Русск.яз(16)",
+    sevenV: "Русск.яз(6)",
     eightA: "",
     eightB: "",
     eightV: "",
-    sixA1: "Русск.яз",
-    sixB1: "География",
-    sixV1: "Математика",
-    sevenA1: "Физкультура",
-    sevenB1: "Литература",
-    sevenV1: "Литература",
-    eightA1: "Математика",
-    eightB1: "Обществознание",
-    eightV1: "Экономика",
-    sixA2: "Математика",
-    sixB2: "Англ.яз",
-    sixV2: "География",
-    sevenA2: "Русск.яз",
-    sevenB2: "Биология",
-    sevenV2: "Обществознание",
-    eightA2: "Математика",
-    eightB2: "Физкультура",
-    eightV2: "Русск.яз",
-    sixA3: "Математика",
-    sixB3: "Англ.яз",
-    sixV3: "Физкультура",
-    sevenA3: "Литература",
-    sevenB3: "История",
-    sevenV3: "Биология",
-    eightA3: "Русск.яз",
-    eightB3: "Математика",
-    eightV3: "Литература",
-    sixA4: "География",
-    sixB4: "Математика",
-    sixV4: "Англ.яз",
-    sevenA4: "История",
-    sevenB4: "География",
-    sevenV4: "Физкультура",
-    eightA4: "Родной язык",
-    eightB4: "Математика",
-    eightV4: "Биология",
-    sixA5: "Физкультура",
-    sixB5: "Математика",
-    sixV5: "Англ.яз",
-    sevenA5: "Биология",
-    sevenB5: "Обществознание",
-    sevenV5: "География",
-    eightA5: "География",
-    eightB5: "Литература",
-    eightV5: "Математика",
+
+    sixA1: "Русск.яз(9)",
+    sixB1: "География(7)",
+    sixV1: "Математика(10)",
+    sevenA1: "Физкультура(21)",
+    sevenB1: "Литература(15)",
+    sevenV1: "Литература(6)",
+    eightA1: "Математика(16)",
+    eightB1: "Обществознание(25)",
+    eightV1: "Экономика(28)",
+
+    sixA2: "Математика(9)",
+    sixB2: "Англ.яз(7,22)",
+    sixV2: "География(10)",
+    sevenA2: "Русск.яз(15)",
+    sevenB2: "Биология(25)",
+    sevenV2: "Обществознание(6)",
+    eightA2: "Математика(16)",
+    eightB2: "Физкультура(21)",
+    eightV2: "Русск.яз(28)",
+
+    sixA3: "Математика(9)",
+    sixB3: "Англ.яз(7,22)",
+    sixV3: "Физкультура(21)",
+    sevenA3: "Литература(15)",
+    sevenB3: "История(10)",
+    sevenV3: "Биология(6)",
+    eightA3: "Русск.яз(16)",
+    eightB3: "Математика(25)",
+    eightV3: "Литература(28)",
+
+    sixA4: "География(9)",
+    sixB4: "Математика(7)",
+    sixV4: "Англ.яз(10,22)",
+    sevenA4: "История(15)",
+    sevenB4: "География(6)",
+    sevenV4: "Физкультура(21)",
+    eightA4: "Родной язык(16)",
+    eightB4: "Математика(25)",
+    eightV4: "Биология(28)",
+
+    sixA5: "Физкультура(21)",
+    sixB5: "Математика(7)",
+    sixV5: "Англ.яз(10,22)",
+    sevenA5: "Биология(15)",
+    sevenB5: "Обществознание(9)",
+    sevenV5: "География(6)",
+    eightA5: "География(16)",
+    eightB5: "Литература(25)",
+    eightV5: "Математика(28)",
+
     sixA6: "",
     sixB6: "",
     sixV6: "",
     sevenA6: "",
     sevenB6: "",
     sevenV6: "",
-    eightA6: "Физкультура",
-    eightB6: "История",
-    eightV6: "Математика",
+    eightA6: "Физкультура(21)",
+    eightB6: "История(25)",
+    eightV6: "Математика(28)",
+
     sixA7: "",
     sixB7: "",
     sixV7: "",
@@ -371,71 +671,80 @@ const sr = {
     eightA7: "",
     eightB7: "",
     eightV7: "",
-};
+
+}; // База данных на среду
+
 const ch = {
-    sixA: "География",
-    sixB: "Информатика",
-    sixV: "Труд",
-    sevenA: "Математика",
-    sevenB: "Экономика",
-    sevenV: "Англ.яз",
+    sixA: "География(9)",
+    sixB: "Информатика(29,31)",
+    sixV: "Труд(22)",
+    sevenA: "Математика(15)",
+    sevenB: "Экономика(16)",
+    sevenV: "Англ.яз(6,10)",
     eightA: "",
     eightB: "",
     eightV: "",
-    sixA1: "Русск.яз",
-    sixB1: "Информатика",
-    sixV1: "Труд",
-    sevenA1: "Русск.яз",
-    sevenB1: "Математика",
-    sevenV1: "Англ.яз",
-    eightA1: "Экономика",
-    eightB1: "Физика",
-    eightV1: "География",
-    sixA2: "Информатика",
-    sixB2: "Русск.яз",
-    sixV2: "Русск.яз",
-    sevenA2: "Математика",
-    sevenB2: "Англ.яз",
-    sevenV2: "Экономика",
-    eightA2: "Русск.яз",
-    eightB2: "География",
-    eightV2: "История",
-    sixA3: "Информатика",
-    sixB3: "Математика",
-    sixV3: "Литература",
-    sevenA3: "Родной язык",
-    sevenB3: "Англ.яз",
-    sevenV3: "Математика",
-    eightA3: "Литература",
-    eightB3: "ОБЖ",
-    eightV3: "Математика",
-    sixA4: "Математика",
-    sixB4: "Труд",
-    sixV4: "Информатика",
-    sevenA4: "Англ.яз",
-    sevenB4: "Математика",
-    sevenV4: "История",
-    eightA4: "ОБЖ",
-    eightB4: "Химия",
-    eightV4: "Математика",
-    sixA5: "Физкультура",
-    sixB5: "Труд",
-    sixV5: "Информатика",
-    sevenA5: "Англ.яз",
-    sevenB5: "Русск.яз",
-    sevenV5: "Математика",
-    eightA5: "История",
-    eightB5: "Математика",
-    eightV5: "Химия",
+
+    sixA1: "Русск.яз(9)",
+    sixB1: "Информатика(29,31)",
+    sixV1: "Труд(22)",
+    sevenA1: "Русск.яз(15)",
+    sevenB1: "Математика(7)",
+    sevenV1: "Англ.яз(6,10)",
+    eightA1: "Экономика(16)",
+    eightB1: "Физика(25)",
+    eightV1: "География(28)",
+
+    sixA2: "Информатика(29,31)",
+    sixB2: "Русск.яз(7)",
+    sixV2: "Русск.яз(10)",
+    sevenA2: "Математика(15)",
+    sevenB2: "Англ.яз(22,9)",
+    sevenV2: "Экономика(6)",
+    eightA2: "Русск.яз(16)",
+    eightB2: "География(25)",
+    eightV2: "История(28)",
+
+    sixA3: "Информатика(29,31)",
+    sixB3: "Математика(7)",
+    sixV3: "Литература(10)",
+    sevenA3: "Родной язык(15)",
+    sevenB3: "Англ.яз(22,9)",
+    sevenV3: "Математика(6)",
+    eightA3: "Литература(16)",
+    eightB3: "ОБЖ(25)",
+    eightV3: "Математика(28)",
+
+    sixA4: "Математика(10)",
+    sixB4: "Труд(22)",
+    sixV4: "Информатика(29,31)",
+    sevenA4: "Англ.яз(15,9)",
+    sevenB4: "Математика(7)",
+    sevenV4: "История(6)",
+    eightA4: "ОБЖ(16)",
+    eightB4: "Химия(25)",
+    eightV4: "Математика(28)",
+
+    sixA5: "Физкультура(21)",
+    sixB5: "Труд(22)",
+    sixV5: "Информатика(29,31)",
+    sevenA5: "Англ.яз(15,9)",
+    sevenB5: "Русск.яз(7)",
+    sevenV5: "Математика(6)",
+    eightA5: "История(16)",
+    eightB5: "Математика(25)",
+    eightV5: "Химия(28)",
+
     sixA6: "",
     sixB6: "",
     sixV6: "",
     sevenA6: "",
     sevenB6: "",
     sevenV6: "",
-    eightA6: "Химия",
-    eightB6: "Математика",
-    eightV6: "ОБЖ",
+    eightA6: "Химия(16)",
+    eightB6: "Математика(25)",
+    eightV6: "ОБЖ(28)",
+
     sixA7: "",
     sixB7: "",
     sixV7: "",
@@ -445,71 +754,80 @@ const ch = {
     eightA7: "",
     eightB7: "",
     eightV7: "",
-};
+
+}; // База данных на четверг
+
 const pt = {
-    sixA: "Англ.яз",
-    sixB: "Биология",
-    sixV: "География",
-    sevenA: "Труд",
-    sevenB: "Математика",
-    sevenV: "Русск.яз",
+    sixA: "Англ.яз(16,9)",
+    sixB: "Биология(7)",
+    sixV: "География(10)",
+    sevenA: "Труд(22)",
+    sevenB: "Математика(15)",
+    sevenV: "Русск.яз(6)",
     eightA: "",
     eightB: "",
     eightV: "",
-    sixA1: "Литература",
-    sixB1: "География",
-    sixV1: "Биология",
-    sevenA1: "Труд",
-    sevenB1: "Физкультура",
-    sevenV1: "История",
-    eightA1: "Математика",
-    eightB1: "Русск.яз",
-    eightV1: "Информатика",
-    sixA2: "Биология",
-    sixB2: "Литература",
-    sixV2: "Русск.яз",
-    sevenA2: "Математика",
-    sevenB2: "Физика",
-    sevenV2: "Физкультура",
-    eightA2: "Математика",
-    eightB2: "Литература",
-    eightV2: "Информатика",
-    sixA3: "ИЗО",
-    sixB3: "Физкультура",
-    sixV3: "Русск.яз",
-    sevenA3: "Математика",
-    sevenB3: "География",
-    sevenV3: "Физика",
-    eightA3: "Информатика",
-    eightB3: "География",
-    eightV3: "Обществознание",
-    sixA4: "Труд",
-    sixB4: "Физкультура",
-    sixV4: "ИЗО",
-    sevenA4: "История",
-    sevenB4: "Математика",
-    sevenV4: "География",
-    eightA4: "Информатика",
-    eightB4: "Русск.яз",
-    eightV4: "География",
-    sixA5: "Труд",
-    sixB5: "ИЗО",
-    sixV5: "Физкультура",
-    sevenA5: "Физика",
-    sevenB5: "Музыка",
-    sevenV5: "Математика",
-    eightA5: "Обществознание",
-    eightB5: "Информатика",
-    eightV5: "Русск.яз",
+
+    sixA1: "Литература(9)",
+    sixB1: "География(7)",
+    sixV1: "Биология(10)",
+    sevenA1: "Труд(22)",
+    sevenB1: "Физкультура(21)",
+    sevenV1: "История(6)",
+    eightA1: "Математика(16)",
+    eightB1: "Русск.яз(25)",
+    eightV1: "Информатика(29,31)",
+
+    sixA2: "Биология(9)",
+    sixB2: "Литература(7)",
+    sixV2: "Русск.яз(10)",
+    sevenA2: "Математика(15)",
+    sevenB2: "Физика(6)",
+    sevenV2: "Физкультура(21)",
+    eightA2: "Математика(16)",
+    eightB2: "Литература(25)",
+    eightV2: "Информатика(29,31)",
+
+    sixA3: "ИЗО(9)",
+    sixB3: "Физкультура(21)",
+    sixV3: "Русск.яз(10)",
+    sevenA3: "Математика(15)",
+    sevenB3: "География(7)",
+    sevenV3: "Физика(6)",
+    eightA3: "Информатика(29,31)",
+    eightB3: "География(25)",
+    eightV3: "Обществознание(28)",
+
+    sixA4: "Труд(22)",
+    sixB4: "Физкультура(21)",
+    sixV4: "ИЗО(10)",
+    sevenA4: "История(15)",
+    sevenB4: "Математика(9)",
+    sevenV4: "География(6)",
+    eightA4: "Информатика(29,31)",
+    eightB4: "Русск.яз(25)",
+    eightV4: "География(28)",
+
+    sixA5: "Труд(22)",
+    sixB5: "ИЗО(7)",
+    sixV5: "Физкультура(21)",
+    sevenA5: "Физика(15)",
+    sevenB5: "Музыка(2)",
+    sevenV5: "Математика(9)",
+    eightA5: "Обществознание(16)",
+    eightB5: "Информатика(29,31)",
+    eightV5: "Русск.яз(18)",
+
     sixA6: "",
     sixB6: "",
     sixV6: "",
     sevenA6: "",
     sevenB6: "",
     sevenV6: "",
-    eightA6: "Физкультура",
-    eightB6: "Информатика",
+    eightA6: "Физкультура(21)",
+    eightB6: "Информатика(29,31)",
     eightV6: "",
+
     sixA7: "",
     sixB7: "",
     sixV7: "",
@@ -519,62 +837,70 @@ const pt = {
     eightA7: "",
     eightB7: "",
     eightV7: "",
-}; 
+
+}; // База данных на пятницу
+
 const su = {
-    sixA: "Математика",
-    sixB: "Русск.яз",
-    sixV: "История",
-    sevenA: "Экономика",
-    sevenB: "Физкультура",
-    sevenV: "Труд",
+    sixA: "Математика(9)",
+    sixB: "Русск.яз(7)",
+    sixV: "История(10)",
+    sevenA: "Экономика(15)",
+    sevenB: "Физкультура(21)",
+    sevenV: "Труд(22)",
     eightA: "",
     eightB: "",
     eightV: "",
-    sixA1: "Родной язык",
-    sixB1: "Математика",
-    sixV1: "Физкультура",
-    sevenA1: "Олимп.математика",
-    sevenB1: "Биология",
-    sevenV1: "Труд",
-    eightA1: "Физика",
-    eightB1: "Математика",
-    eightV1: "Русск.яз",
-    sixA2: "История",
-    sixB2: "Родной язык",
-    sixV2: "Математика",
-    sevenA2: "Физкультура",
-    sevenB2: "Олимп.математика",
-    sevenV2: "Биология",
-    eightA2: "Математика",
-    eightB2: "Русск.яз",
-    eightV2: "Математика",
-    sixA3: "Русск.яз",
-    sixB3: "История",
+
+    sixA1: "Родной язык(9)",
+    sixB1: "Математика(7)",
+    sixV1: "Физкультура(21)",
+    sevenA1: "Олимп.математика(15)",
+    sevenB1: "Биология(10)",
+    sevenV1: "Труд(22)",
+    eightA1: "Физика(16)",
+    eightB1: "Математика(25)",
+    eightV1: "Русск.яз(28)",
+
+    sixA2: "История(9)",
+    sixB2: "Родной язык(7)",
+    sixV2: "Математика(10)",
+    sevenA2: "Физкультура(21)",
+    sevenB2: "Олимп.математика(15)",
+    sevenV2: "Биология(6)",
+    eightA2: "Математика(16)",
+    eightB2: "Русск.яз(25)",
+    eightV2: "Математика(28)",
+
+    sixA3: "Русск.яз(9)",
+    sixB3: "История(7)",
     sixV3: "",
-    sevenA3: "Биология",
-    sevenB3: "Труд",
-    sevenV3: "Олимп.математика",
-    eightA3: "Математика",
-    eightB3: "Математика",
-    eightV3: "Физика",
+    sevenA3: "Биология(15)",
+    sevenB3: "Труд(22)",
+    sevenV3: "Олимп.математика(6)",
+    eightA3: "Математика(16)",
+    eightB3: "Математика(25)",
+    eightV3: "Физика(28)",
+
     sixA4: "",
     sixB4: "",
     sixV4: "",
-    sevenA4: "Обществознание",
-    sevenB4: "Труд",
-    sevenV4: "Физкультура",
-    eightA4: "Англ.яз",
-    eightB4: "Физика",
-    eightV4: "Матем",
+    sevenA4: "Обществознание(15)",
+    sevenB4: "Труд(22)",
+    sevenV4: "Физкультура(21)",
+    eightA4: "Англ.яз(31,16)",
+    eightB4: "Физика(25)",
+    eightV4: "Математика(28)",
+
     sixA5: "",
     sixB5: "",
     sixV5: "",
     sevenA5: "",
     sevenB5: "",
     sevenV5: "",
-    eightA5: "Физкультура",
-    eightB5: "История",
-    eightV5: "Англ.яз",
+    eightA5: "Физкультура(21)",
+    eightB5: "История(25)",
+    eightV5: "Англ.яз(31,28)",
+
     sixA6: "",
     sixB6: "",
     sixV6: "",
@@ -584,6 +910,7 @@ const su = {
     eightA6: "",
     eightB6: "",
     eightV6: "",
+
     sixA7: "",
     sixB7: "",
     sixV7: "",
@@ -593,8 +920,20 @@ const su = {
     eightA7: "",
     eightB7: "",
     eightV7: "",
-}; 
+
+}; // База данных на субботу
+
+
+
+
+// const vt = {
+//     sixA: "Музыка", // 6а
+//     sixB: "Изо",    // 6б
+//     sixV: "ЖП"      // 6в
+// }; // База данных на вторник
+
 zagolovokDenNedely.textContent = `Понедельник`;
+
 sixA1.textContent = pn.sixA;
 sixB1.textContent = pn.sixB;
 sixV1.textContent = pn.sixV;
@@ -604,6 +943,7 @@ sevenV1.textContent = pn.sevenV;
 eightA1.textContent = pn.eightA;
 eightB1.textContent = pn.eightB;
 eightV1.textContent = pn.eightV;
+
 sixA2.textContent = pn.sixA1;
 sixB2.textContent = pn.sixB1;
 sixV2.textContent = pn.sixV1;
@@ -613,6 +953,7 @@ sevenV2.textContent = pn.sevenV1;
 eightA2.textContent = pn.eightA1;
 eightB2.textContent = pn.eightB1;
 eightV2.textContent = pn.eightV1;
+
 sixA3.textContent = pn.sixA2;
 sixB3.textContent = pn.sixB2;
 sixV3.textContent = pn.sixV2;
@@ -622,6 +963,7 @@ sevenV3.textContent = pn.sevenV2;
 eightA3.textContent = pn.eightA2;
 eightB3.textContent = pn.eightB2;
 eightV3.textContent = pn.eightV2;
+
 sixA4.textContent = pn.sixA3;
 sixB4.textContent = pn.sixB3;
 sixV4.textContent = pn.sixV3;
@@ -631,6 +973,7 @@ sevenV4.textContent = pn.sevenV3;
 eightA4.textContent = pn.eightA3;
 eightB4.textContent = pn.eightB3;
 eightV4.textContent = pn.eightV3;
+
 sixA5.textContent = pn.sixA4;
 sixB5.textContent = pn.sixB4;
 sixV5.textContent = pn.sixV4;
@@ -640,6 +983,7 @@ sevenV5.textContent = pn.sevenV4;
 eightA5.textContent = pn.eightA4;
 eightB5.textContent = pn.eightB4;
 eightV5.textContent = pn.eightV4;
+
 sixA6.textContent = pn.sixA5;
 sixB6.textContent = pn.sixB5;
 sixV6.textContent = pn.sixV5;
@@ -649,6 +993,7 @@ sevenV6.textContent = pn.sevenV5;
 eightA6.textContent = pn.eightA5;
 eightB6.textContent = pn.eightB5;
 eightV6.textContent = pn.eightV5;
+
 sixA7.textContent = pn.sixA6;
 sixB7.textContent = pn.sixB6;
 sixV7.textContent = pn.sixV6;
@@ -658,8 +1003,10 @@ sevenV7.textContent = pn.sevenV6;
 eightA7.textContent = pn.eightA6;
 eightB7.textContent = pn.eightB6;
 eightV7.textContent = pn.eightV6;
+
 ponedelnik.addEventListener('click', () => {
     zagolovokDenNedely.textContent = `Понедельник`;
+
     sixA1.textContent = pn.sixA;
     sixB1.textContent = pn.sixB;
     sixV1.textContent = pn.sixV;
@@ -669,6 +1016,7 @@ ponedelnik.addEventListener('click', () => {
     eightA1.textContent = pn.eightA;
     eightB1.textContent = pn.eightB;
     eightV1.textContent = pn.eightV;
+
     sixA2.textContent = pn.sixA1;
     sixB2.textContent = pn.sixB1;
     sixV2.textContent = pn.sixV1;
@@ -678,6 +1026,7 @@ ponedelnik.addEventListener('click', () => {
     eightA2.textContent = pn.eightA1;
     eightB2.textContent = pn.eightB1;
     eightV2.textContent = pn.eightV1;
+
     sixA3.textContent = pn.sixA2;
     sixB3.textContent = pn.sixB2;
     sixV3.textContent = pn.sixV2;
@@ -687,6 +1036,7 @@ ponedelnik.addEventListener('click', () => {
     eightA3.textContent = pn.eightA2;
     eightB3.textContent = pn.eightB2;
     eightV3.textContent = pn.eightV2;
+
     sixA4.textContent = pn.sixA3;
     sixB4.textContent = pn.sixB3;
     sixV4.textContent = pn.sixV3;
@@ -696,6 +1046,7 @@ ponedelnik.addEventListener('click', () => {
     eightA4.textContent = pn.eightA3;
     eightB4.textContent = pn.eightB3;
     eightV4.textContent = pn.eightV3;
+
     sixA5.textContent = pn.sixA4;
     sixB5.textContent = pn.sixB4;
     sixV5.textContent = pn.sixV4;
@@ -705,6 +1056,7 @@ ponedelnik.addEventListener('click', () => {
     eightA5.textContent = pn.eightA4;
     eightB5.textContent = pn.eightB4;
     eightV5.textContent = pn.eightV4;
+
     sixA6.textContent = pn.sixA5;
     sixB6.textContent = pn.sixB5;
     sixV6.textContent = pn.sixV5;
@@ -714,6 +1066,7 @@ ponedelnik.addEventListener('click', () => {
     eightA6.textContent = pn.eightA5;
     eightB6.textContent = pn.eightB5;
     eightV6.textContent = pn.eightV5;
+
     sixA7.textContent = pn.sixA6;
     sixB7.textContent = pn.sixB6;
     sixV7.textContent = pn.sixV6;
@@ -724,9 +1077,12 @@ ponedelnik.addEventListener('click', () => {
     eightB7.textContent = pn.eightB6;
     eightV7.textContent = pn.eightV6;
 
+
 });
+
 vtornik.addEventListener('click', () => {
     zagolovokDenNedely.textContent = `Вторник`;
+
     sixA1.textContent = vt.sixA;
     sixB1.textContent = vt.sixB;
     sixV1.textContent = vt.sixV;
@@ -736,6 +1092,7 @@ vtornik.addEventListener('click', () => {
     eightA1.textContent = vt.eightA;
     eightB1.textContent = vt.eightB;
     eightV1.textContent = vt.eightV;
+
     sixA2.textContent = vt.sixA1;
     sixB2.textContent = vt.sixB1;
     sixV2.textContent = vt.sixV1;
@@ -745,6 +1102,7 @@ vtornik.addEventListener('click', () => {
     eightA2.textContent = vt.eightA1;
     eightB2.textContent = vt.eightB1;
     eightV2.textContent = vt.eightV1;
+
     sixA3.textContent = vt.sixA2;
     sixB3.textContent = vt.sixB2;
     sixV3.textContent = vt.sixV2;
@@ -754,6 +1112,7 @@ vtornik.addEventListener('click', () => {
     eightA3.textContent = vt.eightA2;
     eightB3.textContent = vt.eightB2;
     eightV3.textContent = vt.eightV2;
+
     sixA4.textContent = vt.sixA3;
     sixB4.textContent = vt.sixB3;
     sixV4.textContent = vt.sixV3;
@@ -763,6 +1122,7 @@ vtornik.addEventListener('click', () => {
     eightA4.textContent = vt.eightA3;
     eightB4.textContent = vt.eightB3;
     eightV4.textContent = vt.eightV3;
+
     sixA5.textContent = vt.sixA4;
     sixB5.textContent = vt.sixB4;
     sixV5.textContent = vt.sixV4;
@@ -772,6 +1132,7 @@ vtornik.addEventListener('click', () => {
     eightA5.textContent = vt.eightA4;
     eightB5.textContent = vt.eightB4;
     eightV5.textContent = vt.eightV4;
+
     sixA6.textContent = vt.sixA5;
     sixB6.textContent = vt.sixB5;
     sixV6.textContent = vt.sixV5;
@@ -781,6 +1142,7 @@ vtornik.addEventListener('click', () => {
     eightA6.textContent = vt.eightA5;
     eightB6.textContent = vt.eightB5;
     eightV6.textContent = vt.eightV5;
+
     sixA7.textContent = vt.sixA6;
     sixB7.textContent = vt.sixB6;
     sixV7.textContent = vt.sixV6;
@@ -791,8 +1153,10 @@ vtornik.addEventListener('click', () => {
     eightB7.textContent = vt.eightB6;
     eightV7.textContent = vt.eightV6;
 });
+
 sreda.addEventListener('click', () => {
     zagolovokDenNedely.textContent = `Среда`;
+
     sixA1.textContent = sr.sixA;
     sixB1.textContent = sr.sixB;
     sixV1.textContent = sr.sixV;
@@ -802,6 +1166,7 @@ sreda.addEventListener('click', () => {
     eightA1.textContent = sr.eightA;
     eightB1.textContent = sr.eightB;
     eightV1.textContent = sr.eightV;
+
     sixA2.textContent = sr.sixA1;
     sixB2.textContent = sr.sixB1;
     sixV2.textContent = sr.sixV1;
@@ -811,6 +1176,7 @@ sreda.addEventListener('click', () => {
     eightA2.textContent = sr.eightA1;
     eightB2.textContent = sr.eightB1;
     eightV2.textContent = sr.eightV1;
+
     sixA3.textContent = sr.sixA2;
     sixB3.textContent = sr.sixB2;
     sixV3.textContent = sr.sixV2;
@@ -820,6 +1186,7 @@ sreda.addEventListener('click', () => {
     eightA3.textContent = sr.eightA2;
     eightB3.textContent = sr.eightB2;
     eightV3.textContent = sr.eightV2;
+
     sixA4.textContent = sr.sixA3;
     sixB4.textContent = sr.sixB3;
     sixV4.textContent = sr.sixV3;
@@ -829,6 +1196,7 @@ sreda.addEventListener('click', () => {
     eightA4.textContent = sr.eightA3;
     eightB4.textContent = sr.eightB3;
     eightV4.textContent = sr.eightV3;
+
     sixA5.textContent = sr.sixA4;
     sixB5.textContent = sr.sixB4;
     sixV5.textContent = sr.sixV4;
@@ -838,6 +1206,7 @@ sreda.addEventListener('click', () => {
     eightA5.textContent = sr.eightA4;
     eightB5.textContent = sr.eightB4;
     eightV5.textContent = sr.eightV4;
+
     sixA6.textContent = sr.sixA5;
     sixB6.textContent = sr.sixB5;
     sixV6.textContent = sr.sixV5;
@@ -847,6 +1216,7 @@ sreda.addEventListener('click', () => {
     eightA6.textContent = sr.eightA5;
     eightB6.textContent = sr.eightB5;
     eightV6.textContent = sr.eightV5;
+
     sixA7.textContent = sr.sixA6;
     sixB7.textContent = sr.sixB6;
     sixV7.textContent = sr.sixV6;
@@ -857,8 +1227,10 @@ sreda.addEventListener('click', () => {
     eightB7.textContent = sr.eightB6;
     eightV7.textContent = sr.eightV6;
 });
+
 chetverg.addEventListener('click', () => {
     zagolovokDenNedely.textContent = `Четверг`;
+
     sixA1.textContent = ch.sixA;
     sixB1.textContent = ch.sixB;
     sixV1.textContent = ch.sixV;
@@ -868,6 +1240,7 @@ chetverg.addEventListener('click', () => {
     eightA1.textContent = ch.eightA;
     eightB1.textContent = ch.eightB;
     eightV1.textContent = ch.eightV;
+
     sixA2.textContent = ch.sixA1;
     sixB2.textContent = ch.sixB1;
     sixV2.textContent = ch.sixV1;
@@ -877,6 +1250,7 @@ chetverg.addEventListener('click', () => {
     eightA2.textContent = ch.eightA1;
     eightB2.textContent = ch.eightB1;
     eightV2.textContent = ch.eightV1;
+
     sixA3.textContent = ch.sixA2;
     sixB3.textContent = ch.sixB2;
     sixV3.textContent = ch.sixV2;
@@ -886,6 +1260,7 @@ chetverg.addEventListener('click', () => {
     eightA3.textContent = ch.eightA2;
     eightB3.textContent = ch.eightB2;
     eightV3.textContent = ch.eightV2;
+
     sixA4.textContent = ch.sixA3;
     sixB4.textContent = ch.sixB3;
     sixV4.textContent = ch.sixV3;
@@ -895,6 +1270,7 @@ chetverg.addEventListener('click', () => {
     eightA4.textContent = ch.eightA3;
     eightB4.textContent = ch.eightB3;
     eightV4.textContent = ch.eightV3;
+
     sixA5.textContent = ch.sixA4;
     sixB5.textContent = ch.sixB4;
     sixV5.textContent = ch.sixV4;
@@ -904,6 +1280,7 @@ chetverg.addEventListener('click', () => {
     eightA5.textContent = ch.eightA4;
     eightB5.textContent = ch.eightB4;
     eightV5.textContent = ch.eightV4;
+
     sixA6.textContent = ch.sixA5;
     sixB6.textContent = ch.sixB5;
     sixV6.textContent = ch.sixV5;
@@ -913,6 +1290,7 @@ chetverg.addEventListener('click', () => {
     eightA6.textContent = ch.eightA5;
     eightB6.textContent = ch.eightB5;
     eightV6.textContent = ch.eightV5;
+
     sixA7.textContent = ch.sixA6;
     sixB7.textContent = ch.sixB6;
     sixV7.textContent = ch.sixV6;
@@ -923,8 +1301,10 @@ chetverg.addEventListener('click', () => {
     eightB7.textContent = ch.eightB6;
     eightV7.textContent = ch.eightV6;
 });
+
 patnicha.addEventListener('click', () => {
     zagolovokDenNedely.textContent = `Пятница`;
+
     sixA1.textContent = pt.sixA;
     sixB1.textContent = pt.sixB;
     sixV1.textContent = pt.sixV;
@@ -934,6 +1314,7 @@ patnicha.addEventListener('click', () => {
     eightA1.textContent = pt.eightA;
     eightB1.textContent = pt.eightB;
     eightV1.textContent = pt.eightV;
+
     sixA2.textContent = pt.sixA1;
     sixB2.textContent = pt.sixB1;
     sixV2.textContent = pt.sixV1;
@@ -943,6 +1324,7 @@ patnicha.addEventListener('click', () => {
     eightA2.textContent = pt.eightA1;
     eightB2.textContent = pt.eightB1;
     eightV2.textContent = pt.eightV1;
+
     sixA3.textContent = pt.sixA2;
     sixB3.textContent = pt.sixB2;
     sixV3.textContent = pt.sixV2;
@@ -952,6 +1334,7 @@ patnicha.addEventListener('click', () => {
     eightA3.textContent = pt.eightA2;
     eightB3.textContent = pt.eightB2;
     eightV3.textContent = pt.eightV2;
+
     sixA4.textContent = pt.sixA3;
     sixB4.textContent = pt.sixB3;
     sixV4.textContent = pt.sixV3;
@@ -961,6 +1344,7 @@ patnicha.addEventListener('click', () => {
     eightA4.textContent = pt.eightA3;
     eightB4.textContent = pt.eightB3;
     eightV4.textContent = pt.eightV3;
+
     sixA5.textContent = pt.sixA4;
     sixB5.textContent = pt.sixB4;
     sixV5.textContent = pt.sixV4;
@@ -970,6 +1354,7 @@ patnicha.addEventListener('click', () => {
     eightA5.textContent = pt.eightA4;
     eightB5.textContent = pt.eightB4;
     eightV5.textContent = pt.eightV4;
+
     sixA6.textContent = pt.sixA5;
     sixB6.textContent = pt.sixB5;
     sixV6.textContent = pt.sixV5;
@@ -979,6 +1364,7 @@ patnicha.addEventListener('click', () => {
     eightA6.textContent = pt.eightA5;
     eightB6.textContent = pt.eightB5;
     eightV6.textContent = pt.eightV5;
+
     sixA7.textContent = pt.sixA6;
     sixB7.textContent = pt.sixB6;
     sixV7.textContent = pt.sixV6;
@@ -989,8 +1375,11 @@ patnicha.addEventListener('click', () => {
     eightB7.textContent = pt.eightB6;
     eightV7.textContent = pt.eightV6;
 });
+
+
 subbota.addEventListener('click', () => {
     zagolovokDenNedely.textContent = `Суббота`;
+
     sixA1.textContent = su.sixA;
     sixB1.textContent = su.sixB;
     sixV1.textContent = su.sixV;
@@ -1000,6 +1389,7 @@ subbota.addEventListener('click', () => {
     eightA1.textContent = su.eightA;
     eightB1.textContent = su.eightB;
     eightV1.textContent = su.eightV;
+
     sixA2.textContent = su.sixA1;
     sixB2.textContent = su.sixB1;
     sixV2.textContent = su.sixV1;
@@ -1009,6 +1399,7 @@ subbota.addEventListener('click', () => {
     eightA2.textContent = su.eightA1;
     eightB2.textContent = su.eightB1;
     eightV2.textContent = su.eightV1;
+
     sixA3.textContent = pt.sixA2;
     sixB3.textContent = su.sixB2;
     sixV3.textContent = su.sixV2;
@@ -1018,6 +1409,7 @@ subbota.addEventListener('click', () => {
     eightA3.textContent = su.eightA2;
     eightB3.textContent = su.eightB2;
     eightV3.textContent = su.eightV2;
+
     sixA4.textContent = su.sixB3;
     sixV4.textContent = su.sixV3;
     sevenA4.textContent = su.sevenA3;
@@ -1026,6 +1418,7 @@ subbota.addEventListener('click', () => {
     eightA4.textContent = su.eightA3;
     eightB4.textContent = su.eightB3;
     eightV4.textContent = su.eightV3;
+
     sixA5.textContent = su.sixA4;
     sixB5.textContent = su.sixB4;
     sixV5.textContent = su.sixV4;
@@ -1035,6 +1428,7 @@ subbota.addEventListener('click', () => {
     eightA5.textContent = su.eightA4;
     eightB5.textContent = su.eightB4;
     eightV5.textContent = su.eightV4;
+
     sixA6.textContent = su.sixA5;
     sixB6.textContent = su.sixB5;
     sixV6.textContent = su.sixV5;
@@ -1044,6 +1438,7 @@ subbota.addEventListener('click', () => {
     eightA6.textContent = su.eightA5;
     eightB6.textContent = su.eightB5;
     eightV6.textContent = su.eightV5;
+
     sixA7.textContent = su.sixA6;
     sixB7.textContent = su.sixB6;
     sixV7.textContent = su.sixV6;
@@ -1054,3 +1449,4 @@ subbota.addEventListener('click', () => {
     eightB7.textContent = su.eightB6;
     eightV7.textContent = su.eightV6;
 });
+
